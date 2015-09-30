@@ -35,3 +35,13 @@ approaches, participants will also receive a detailed bibliography of approaches
 (including those not directly covered in the tutorial), annotated according to
 the approaches abilities, and pointers to when open-source implementations of
 the algorithms may be obtained.
+
+## Bibliography
+
+Along with the tutorial slides, we have provided an extended bibliography with
+all the papers mentioned in the slides and many papers that we wished we had
+time to discuss.  Our hope this that this bibliography serves as an living
+document capturing much of the current work in the space and we welcome
+contributions and suggestions for new works to add to it.  We especially welcome
+git pull requests that directly update the .bib and .tex files, which we can use
+to regenerate the .pdf
